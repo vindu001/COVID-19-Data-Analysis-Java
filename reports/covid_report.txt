@@ -1,0 +1,20 @@
+COVID-19 ANALYSIS REPORT
+
+Country : India
+Latest Date : 2024-08-04
+Total Cases : 45041748
+Total Deaths : 533623
+Recovery Rate : 98.82%
+
+TOP 10 COUNTRIES BY TOTAL CASES
+
+1. United States -> 103436829
+2. China -> 99373219
+3. India -> 45041748
+4. France -> 38997490
+5. Germany -> 38437756
+6. Brazil -> 37511921
+7. South Korea -> 34571873
+8. Japan -> 33803572
+9. Italy -> 26781078
+10. United Kingdom -> 24974629
