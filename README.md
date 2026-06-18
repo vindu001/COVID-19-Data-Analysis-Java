@@ -61,3 +61,8 @@ Recovery Rate : 98.82%
 ## Project Screenshot
 
 ![Project Output](screenshotsoutput1.png)
+## Dataset
+
+The project uses the Our World in Data COVID-19 dataset.
+
+Note: The dataset file is not uploaded to GitHub because of its large size. Users can download it from the official source and place it inside the `data` folder.
